@@ -3,5 +3,5 @@ exceptional realty group
 
 #Description
 
-This is an example website for the intro to Web Dev from Learn-verified 
+This is an example site for the intro to Web Dev from Learn-verified 
 
